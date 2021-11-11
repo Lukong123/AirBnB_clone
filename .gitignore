@@ -1,0 +1,5 @@
+# Ignore duplicate unnecessary files
+*~
+
+#Ignore hash files
+*#
