@@ -158,9 +158,10 @@ To be continued
 No known bugs at this time. 
 
 ## Authors
-Lukong Anne Machinda Berinyuy - [Github](https://github.com/lukong123) / [Twitter](https://twitter.com/)  / [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Message%20of%20Congrats&to=annemachinda@gmail.com&body=I+just+wish+to+say+you+are+doing+a+great+job)
+Lukong Anne Machinda Berinyuy - [Github](https://github.com/lukong123) / [Twitter](https://twitter.com/)  / [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Message%20of%20Congrats&to=annemachinda@gmail.com&body=Hello%20Lukong%20Anne%2C%0AI%20just%20wish%20to%20say%20congratulations%20for%20the%20great%20work%20you%20are%20doing.)
 
-Mofor Emmanuel - [Github](https://github.com/moforemmanuel) / [Twitter](https://twitter.com/Mofor_Emmanuel_1) / [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Message%20of%20Congrats&to=moforemmanuel1000@gmail.com&body=I+just+wish+to+say+you+are+doing+a+great+job)  
+Mofor Emmanuel - [Github](https://github.com/moforemmanuel) / [Twitter](https://twitter.com/Mofor_Emmanuel_1) / [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Message%20of%20Congrats&to=moforemmanuel1000@gmail.com&body=Hello%20Mofor%20Emmanuel%2C%0AI%20just%20wish%20to%20say%20congratulations%20for%20the%20great%20work%20you%20are%20doing.
+)  
 
 
 ## License
