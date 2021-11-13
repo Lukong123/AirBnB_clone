@@ -158,9 +158,9 @@ To be continued
 No known bugs at this time. 
 
 ## Authors
-Lukong Anne Machinda Berinyuy - [Github](https://github.com/lukong123) / [Twitter](https://twitter.com/)  / [Gmail](annemachinda@gmail.com)
+Lukong Anne Machinda Berinyuy - [Github](https://github.com/lukong123) / [Twitter](https://twitter.com/)  / [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Message%20of%20Congrats&to=annemachinda@gmail.com&body=I+just+wish+to+say+you+are+doing+a+great+job)
 
-Mofor Emmanuel - [Github](https://github.com/moforemmanuel) / [Twitter](https://twitter.com/Mofor_Emmanuel_1) / [Gmail](moforemmanuel1000@gmail.com)  
+Mofor Emmanuel - [Github](https://github.com/moforemmanuel) / [Twitter](https://twitter.com/Mofor_Emmanuel_1) / [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Message%20of%20Congrats&to=moforemmanuel1000@gmail.com&body=I+just+wish+to+say+you+are+doing+a+great+job)  
 
 
 ## License
