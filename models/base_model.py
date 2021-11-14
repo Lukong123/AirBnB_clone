@@ -21,3 +21,9 @@ class BaseModel:
 
     def to_dict(self):
         """ returns a dictionary containing all keys/values of __dict__ of the instance"""
+        to_dict = dict(self.__dict__)
+        to_dict['__class__'] = self.__class__.__name__
+        to_dict['updated_at'] = self.updated_at.strftime("%Y-%m-%dT%H:%M:%S.%f")
+        to_dict['created_at'] = self.created_at.strftime("%Y-%m-%dT%H:%M:%S.%f")
+        return to_dict
+
