@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """A base model class"""
 import uuid
+import models
 from datetime import datetime
 
 
@@ -21,6 +22,7 @@ class BaseModel:
         else:
             self.id = str(uuid.uuid4())
             self.created_at = datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
+            models.storage.new(self)
 
     def __str__(self):
         """ String representation"""
@@ -28,7 +30,7 @@ class BaseModel:
 
     def save(self):
         self.updated_at = datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
-        return self.updated_at
+        models.storage.save()
 
     def to_dict(self):
         """ returns a dictionary containing all keys/values of __dict__ of the instance"""
