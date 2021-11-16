@@ -23,3 +23,6 @@ class HBNBCommand(cmd.Cmd):
         """do help"""
         print("helping you get along")
         return True
+
+if __name__ == '__main__':
+    HBNBCommand().cmdloop()
