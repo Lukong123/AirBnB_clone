@@ -7,7 +7,7 @@ class HBNBCommand(cmd.Cmd):
     """Simple HBNBCommand"""
     prompt = '(hbnb)'
 
-    def do_EOF(self,arg):
+    def do_EOF(self, arg):
         """End of file"""
         return True
 
@@ -15,7 +15,7 @@ class HBNBCommand(cmd.Cmd):
         """empyty line"""
         return False
 
-    def do_quit(self,arg):
+    def do_quit(self, arg):
         """do quit"""
         return True
 
